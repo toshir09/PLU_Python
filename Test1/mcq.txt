@@ -1,0 +1,10 @@
+(C) Tuple
+(B) 3
+(B) ==
+(A) Hello
+(B) For
+(C) def
+(A) random
+(A) r
+(C) except
+(C) Inheritance

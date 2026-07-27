@@ -1,0 +1,14 @@
+class Node:
+    def _init_(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+def inorder(root):
+    if root:
+        inorder(root.left)
+        print(root.data, end=" ")
+        inorder(root.right)
+root = Node(50)
+root.left = Node(30)
+root.right = Node(70)
+inorder(root)

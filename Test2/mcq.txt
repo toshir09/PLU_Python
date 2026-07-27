@@ -1,0 +1,10 @@
+(c) Linked List
+(b) Push
+(c) Dequeue
+(c) Root Node
+(b) Nodes and Edges
+(c) Stack
+(a) queue
+(b) Data and a reference to the next node
+(c) Leaf Node
+(b) BFS
